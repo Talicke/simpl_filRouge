@@ -18,7 +18,6 @@
 - [Diagramme de séquence](./diagramme-sequence.md)
 - [Diagramme de classe](./diagramme-classe.md)
 
-
 ## Clients
 
 ### Front-end
@@ -34,9 +33,3 @@
 - [Choix stack mobile](choix-stack-mobile.md)
 - [Wireframes](./wireframes-mobile.md)
 - [Mockups](./mockups-mobile.md)
-
-
-
-
-
-

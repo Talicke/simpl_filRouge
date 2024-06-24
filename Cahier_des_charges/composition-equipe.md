@@ -1,9 +1,8 @@
-### :handshake: L'équipe
+# :handshake: L'équipe
 
-- Kevin: 
-
-- Valérie : 
-
-- Aurore: 
-
-
+- Kevin: Product owner
+    [Son Github](https://github.com/Talicke)
+- Valérie : Techlead
+    [Son Github](https://github.com/ValerieRas)
+- Aurore: Scrum Master
+    [Son Github](https://github.com/Aura974)
