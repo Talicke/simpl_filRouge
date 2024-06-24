@@ -6,4 +6,4 @@ Le Modèle Logique de Données (MLD) est une représentation détaillée des str
 
 ## Schéma
 
-![MLD illustration](../assets/Keepthis-MLD.jpg)
+![MLD illustration](../Assets/Keepthis-MLD.jpg)

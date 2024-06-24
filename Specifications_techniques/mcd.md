@@ -6,4 +6,4 @@ Le Modèle Conceptuel des Données est une représentation abstraite des structu
 
 ## Schéma
 
-![MCD illustration](../assets/Keepthis-MCD.jpg)
+![MCD illustration](../Assets/Keepthis-MCD.jpg)
